@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1719624030 source:c:\users\pichau\desktop\gildedrose\gildedrose\gildedrose.c
+	<string.h>
+	"GildedRose.h"
+	<stdio.h>
+
+1719624030 c:\users\pichau\desktop\gildedrose\gildedrose\gildedrose.h
+
+1719624507 source:c:\users\pichau\desktop\gildedrose\gildedrose\gildedrosetexttests.c
+	<stdio.h>
+	"GildedRose.h"
+
+1719676244 source:c:\users\pichau\desktop\gildedrose - sem frameworks\gildedrose\gildedrose.c
+	<string.h>
+	"GildedRose.h"
+	<stdio.h>
+
+1719624030 c:\users\pichau\desktop\gildedrose - sem frameworks\gildedrose\gildedrose.h
+
+1719675949 source:c:\users\pichau\desktop\gildedrose - sem frameworks\gildedrose\gildedroseunittests.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GildedRose.h"
+
+1719671334 source:c:\users\pichau\desktop\gildedrose - sem frameworks\gildedrose\gildedrosetexttests.c
+	<stdio.h>
+	"GildedRose.h"
+
